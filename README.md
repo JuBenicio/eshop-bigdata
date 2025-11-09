@@ -108,7 +108,7 @@ Etapa	Descrição	Imagem
 🎥 Demonstração em Vídeo
 
 Apresentação do projeto (pitch e demonstração):
-🔗 [Link do vídeo no YouTube – inserir aqui após gravar]
+🔗 https://www.youtube.com/watch?v=Fs81loEze44
 
 O vídeo mostra a execução da aplicação, a estrutura do código e a explicação das tecnologias utilizadas (Docker, MongoDB e Streamlit).
 
@@ -133,5 +133,6 @@ Julia Benicio
 Disciplina: Advanced Databases and Big Data
 Instituição: UniFECAF
 Ano: 2025
+
 
 🔗 Repositório no GitHub: https://github.com/JuBenicio/eshop-bigdata
